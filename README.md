@@ -8,8 +8,8 @@ This project utilizes the Google Maps API and the MBTA API to track and display 
 To run this project on your machine, follow these steps:
 
 1. Ensure you have a web browser installed (e.g., Google Chrome, Mozilla Firefox).
-2. Clone the repository: git clone <repository-url>
-3. Open the index.html file in a web browser.
+2. Clone the repository: `git clone https://github.com/PatMcCue/bustrackerboston`
+3. Open the bustracker.html file in a web browser.
 4. Obtain a Google Maps API key by following the Google Maps API documentation.
 5. Replace YOUR_API_KEY in the script tag with your actual Google Maps API key.
 6. Open the bustracker.html file with your web browser.
